@@ -17,9 +17,9 @@ TRANSCRIPT_CSV = DATA_DIR / "transcripts.csv"
 # Example: large-cap tech/software. Note: using today's index members creates
 # survivorship bias. Say so in your limitations section.
 TICKERS = [
-    "AAPL", "MSFT", "NVDA", "ORCL", "ADBE", "CRM", "CSCO", "INTC", "AMD", "QCOM",
-    "TXN", "AVGO", "IBM", "INTU", "AMAT", "MU", "ADI", "LRCX", "KLAC", "NOW",
-    "SNPS", "CDNS", "PANW", "FTNT", "ADSK", "HPQ", "NTAP", "STX", "WDC", "GLW",
+    "MSFT", "ORCL", "ADBE", "CRM", "CSCO", "IBM", "INTU", "NOW", "SNPS", "CDNS",
+    "PANW", "FTNT", "ADSK", "HPQ", "NTAP", "HPE", "DELL", "SAP", "ACN", "CTSH",
+    "PLTR", "WDAY", "TEAM", "DDOG", "MDB", "OKTA", "SNOW", "CRWD", "ZM", "HUBS",
 ]
 BENCHMARK = "SPY"
 PRICE_START = "2018-01-01"

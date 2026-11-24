@@ -6,7 +6,7 @@ Git commit hash: The SHA of the commit containing this document is recorded in g
 
 ## Scope and data
 
-- Universe: the 30 software and semiconductor companies listed in `src/config.py`.
+- Universe: the 30 software and IT-services companies listed in `src/config.py`.
 - Data: real earnings transcripts and daily prices covering events after 2018-01-01.
 - Entry: the close of the first trading day after the call date.
 - Baseline: market-adjusted abnormal return using pre-call beta estimated over trading days
